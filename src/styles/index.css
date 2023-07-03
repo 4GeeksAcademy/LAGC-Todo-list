@@ -1,4 +1,3 @@
-
 /* 
 
     You can write your own styles here...
@@ -10,3 +9,49 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.todolist{
+   font-size: 20px;
+   padding-bottom: 75px;
+
+    }
+   
+
+.text-center{
+    margin: auto;
+    background-color: #50586cc4;
+    width: 700px;
+    height: auto;
+    margin-top: 100px;
+ 
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 60;
+
+    color:#DCE2F0 ;
+}
+
+.bigbox{
+    background-color: #50586C;
+}
+
+form{
+    background-color: #DCE2F0;
+    width:235px;
+    height: auto;
+    margin: auto;
+    
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.length{
+    display: flex;
+    justify-content: flex-start;
+}
